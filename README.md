@@ -2,7 +2,8 @@
 
 A Python script that generates visual diagrams (PNG) and text-based representations of directory structures using Graphviz.
 
-![Example Output](folder_structure.png) *(example image)*
+![Example Output](![image](https://github.com/user-attachments/assets/a21869cc-cc00-4bd8-b3ea-d977f4f47267)
+) *(example image)*
 
 ## Features
 - 📁 **Recursive directory scanning** - Visualizes nested folder structures
